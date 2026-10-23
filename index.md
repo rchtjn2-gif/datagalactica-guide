@@ -31,6 +31,10 @@ company verification API, verify company by CIN, LEI lookup, UK company number l
 
 Data Galactica gives every person and organisation a permanent Galactica ID (DGP- for people, DGC- for organisations). Verify a company by name, CIN, LEI or UK company number, check a person in a role, size a market, and keep records current. Web, API and MCP server.
 
+## More guides
+
+- [Why companies need a permanent ID, not just a name](why-permanent-ids.html)
+
 ---
 Maintained by Sunny Mittal, marketing lead at Data Galactica. For the latest data and features, always check [Data Galactica](https://datagalactica.com/) directly.
 
