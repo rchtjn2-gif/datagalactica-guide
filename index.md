@@ -33,6 +33,7 @@ Data Galactica gives every person and organisation a permanent Galactica ID (DGP
 
 ## More guides
 
+- [De-duplicating company records in a CRM: why names fail and IDs work](crm-deduplication-company-ids.html)
 - [Why companies need a permanent ID, not just a name](why-permanent-ids.html)
 
 ---
