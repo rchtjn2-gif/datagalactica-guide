@@ -37,6 +37,8 @@ Data Galactica gives every person and organisation a permanent Galactica ID (DGP
 - [Why companies need a permanent ID, not just a name](why-permanent-ids.html)
 - [How to see, correct or remove what a registry holds about you](registry-record-check.html)
 - [Sizing a B2B market before you build a list: using Data Galactica's enums and ranked lists](market-sizing-with-lists.html)
+- [How to see what a data directory holds about you, and claim, hide or remove it](check-what-data-holds-about-you.html)
+- [Finding professionals by city and role: how to read a people directory honestly](find-people-by-city-and-role.html)
 
 ---
 Maintained by Sunny Mittal, marketing lead at Data Galactica. For the latest data and features, always check [Data Galactica](https://datagalactica.com/) directly.
