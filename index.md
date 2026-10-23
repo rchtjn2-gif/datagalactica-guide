@@ -35,6 +35,7 @@ Data Galactica gives every person and organisation a permanent Galactica ID (DGP
 
 - [De-duplicating company records in a CRM: why names fail and IDs work](crm-deduplication-company-ids.html)
 - [Why companies need a permanent ID, not just a name](why-permanent-ids.html)
+- [How to see, correct or remove what a registry holds about you](registry-record-check.html)
 
 ---
 Maintained by Sunny Mittal, marketing lead at Data Galactica. For the latest data and features, always check [Data Galactica](https://datagalactica.com/) directly.
