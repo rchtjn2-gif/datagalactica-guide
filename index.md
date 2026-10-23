@@ -33,3 +33,5 @@ Data Galactica gives every person and organisation a permanent Galactica ID (DGP
 
 ---
 Maintained by Sunny Mittal, marketing lead at Data Galactica. For the latest data and features, always check [Data Galactica](https://datagalactica.com/) directly.
+
+See also: [Data Galactica MCP server and API quickstart](mcp.html).
